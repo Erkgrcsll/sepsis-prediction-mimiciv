@@ -12,23 +12,23 @@ This project develops and evaluates machine learning models for sepsis predictio
 
 ### Key Highlights
 
-✅ Exploratory Data Analysis (EDA)
+- Exploratory Data Analysis (EDA)
 
-✅ Missing Value Handling & Feature Engineering
+- Missing Value Handling & Feature Engineering
 
-✅ Class Imbalance Treatment using SMOTE
+- Class Imbalance Treatment using SMOTE
 
-✅ Logistic Regression, Random Forest, and XGBoost Modeling
+- Logistic Regression, Random Forest, and XGBoost Modeling
 
-✅ Information Leakage Validation
+- Information Leakage Validation
 
-✅ SHAP Explainability Analysis
+- SHAP Explainability Analysis
 
-✅ Calibration Curve Evaluation
+- Calibration Curve Evaluation
 
-✅ Decision Curve Analysis (DCA)
+- Decision Curve Analysis (DCA)
 
-✅ Clinical Insight Generation
+- Clinical Insight Generation
 
 ---
 
